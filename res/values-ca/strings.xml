@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Capçaleres</string>
   <string name="custom_header_image_notice">Conjunt d\'imatges de capçalera</string>
   <string name="browse_walls">Fons de pantalla</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Estableix el fons de pantalla</string>
   <string name="wallpaper_type_both">Pantalles d\'inici i de bloqueig</string>
   <string name="wallpaper_type_system">Pàgina d\'inici</string>

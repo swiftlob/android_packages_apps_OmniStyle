@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Fejlécek</string>
   <string name="custom_header_image_notice">Fejléckép beállítva</string>
   <string name="browse_walls">Háttérképek</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Háttérkép beállítása</string>
   <string name="wallpaper_type_both">Kezdő- és zárképernyő</string>
   <string name="wallpaper_type_system">Kezdőképernyő</string>

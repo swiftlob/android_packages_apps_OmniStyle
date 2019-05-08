@@ -28,7 +28,7 @@
     <theme name="Smoked Green" accent="org.omnirom.theme.accent.smokinggreen"
            thumbnail="thumbnail_smoked_green.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.omni"/>
-    <theme name="Omni" accent="org.omnirom.theme.accent.omni"
+    <theme name="Omniverse" accent="org.omnirom.theme.accent.omni"
            thumbnail="thumbnail_omni.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.omni"/>
     <theme name="Zero Zero" accent="org.omnirom.theme.accent.white"

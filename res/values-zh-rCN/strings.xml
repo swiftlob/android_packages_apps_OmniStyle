@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">标题</string>
   <string name="custom_header_image_notice">状态栏图片设置</string>
   <string name="browse_walls">壁纸</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">设置壁纸</string>
   <string name="wallpaper_type_both">主屏幕和锁定屏幕</string>
   <string name="wallpaper_type_system">主屏幕</string>

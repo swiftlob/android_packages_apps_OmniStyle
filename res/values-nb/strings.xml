@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Topplinjer</string>
   <string name="custom_header_image_notice">Topplinje bildesamling</string>
   <string name="browse_walls">Bakgrunn</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Angi bakgrunn</string>
   <string name="wallpaper_type_both">Startside og låseskjerm</string>
   <string name="wallpaper_type_system">Startside</string>

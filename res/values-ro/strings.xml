@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Antete</string>
   <string name="custom_header_image_notice">Pachet de imagini antet</string>
   <string name="browse_walls">Imagini de fundal</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Setați imaginea de fundal</string>
   <string name="wallpaper_type_both">Ecranul de pornire şi blocarea ecranului</string>
   <string name="wallpaper_type_system">Ecranul de pornire</string>

@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Glave</string>
   <string name="custom_header_image_notice">Slika glave nastavljena</string>
   <string name="browse_walls">Slike ozadja</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Nastavi sliko ozadja</string>
   <string name="wallpaper_type_both">Domači in zaklenjen zaslon</string>
   <string name="wallpaper_type_system">Domači zaslon</string>

@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Headers</string>
   <string name="custom_header_image_notice">Header afbeelding instellen</string>
   <string name="browse_walls">Achtergronden</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Achtergrond instellen</string>
   <string name="wallpaper_type_both">Begin- en vergrendelscherm</string>
   <string name="wallpaper_type_system">Beginscherm</string>

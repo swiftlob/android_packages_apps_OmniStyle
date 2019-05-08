@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">下滑選單</string>
   <string name="custom_header_image_notice">下滑選單圖片設定</string>
   <string name="browse_walls">桌布</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">設定桌布</string>
   <string name="wallpaper_type_both">主螢幕與鎖定畫面</string>
   <string name="wallpaper_type_system">主螢幕</string>

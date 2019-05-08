@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Záhlavia</string>
   <string name="custom_header_image_notice">Obrázok záhlavia bol nastavený</string>
   <string name="browse_walls">Tapety</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Nastaviť tapetu</string>
   <string name="wallpaper_type_both">Domovská obrazovka a obrazovka uzamknutia</string>
   <string name="wallpaper_type_system">Domovská obrazovka</string>

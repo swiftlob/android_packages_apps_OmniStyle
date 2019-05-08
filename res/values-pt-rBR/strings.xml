@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Cabeçalhos</string>
   <string name="custom_header_image_notice">Pacote de imagens de cabeçalho</string>
   <string name="browse_walls">Papéis de parede</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Definir papel de parede</string>
   <string name="wallpaper_type_both">Tela inicial e tela de bloqueio</string>
   <string name="wallpaper_type_system">Tela inicial</string>

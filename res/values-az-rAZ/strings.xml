@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Mövzular</string>
   <string name="custom_header_image_notice">Mövzü şəkli təyin et</string>
   <string name="browse_walls">Divar kağızları</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Divarkağızı seç</string>
   <string name="wallpaper_type_both">Əsas ekran və kilid ekranı</string>
   <string name="wallpaper_type_system">Əsas ekran</string>

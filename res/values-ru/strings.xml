@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Заголовки</string>
   <string name="custom_header_image_notice">Изображение для заголовка установлено</string>
   <string name="browse_walls">Обои</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Установить обои</string>
   <string name="wallpaper_type_both">Домашний экран и экран блокировки</string>
   <string name="wallpaper_type_system">Домашний экран</string>

@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">En-têtes</string>
   <string name="custom_header_image_notice">Pack d\'image d\'en-tête</string>
   <string name="browse_walls">Fonds d’écran</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Définir le fond d\'écran</string>
   <string name="wallpaper_type_both">Écran d\'accueil et écran de verrouillage</string>
   <string name="wallpaper_type_system">Écran d\'accueil</string>

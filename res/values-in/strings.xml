@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Judul</string>
   <string name="custom_header_image_notice">Set gambar kepala</string>
   <string name="browse_walls">Wallpaper</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Memasang wallpaper</string>
   <string name="wallpaper_type_both">Layar utama dan kunci layar</string>
   <string name="wallpaper_type_system">Layar utama</string>

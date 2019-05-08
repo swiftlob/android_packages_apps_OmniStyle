@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Päised</string>
   <string name="custom_header_image_notice">Päisepilt seatud</string>
   <string name="browse_walls">Taustapildid</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Määra taustapilt</string>
   <string name="wallpaper_type_both">Avakuva ja lukukuva</string>
   <string name="wallpaper_type_system">Avakuva</string>

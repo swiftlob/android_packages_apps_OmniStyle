@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
   <string name="browse_walls">Bakgrundsbilder</string>
-  <string name="omni_walls">Omni</string>
+  <string name="omni_walls">Omniverse</string>
   <string name="wallpaper_type_dialog_title">Ange bakgrundsbild</string>
   <string name="wallpaper_type_system">Hemskärm</string>
   <string name="wallpaper_type_lock">Låsskärm</string>
