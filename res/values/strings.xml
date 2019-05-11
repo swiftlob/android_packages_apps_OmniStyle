@@ -56,9 +56,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_notification">Notification</string>
     <string name="theme_compose">Compose</string>
     <string name="button_apply">Apply</string>
-    <string name="overlay_preview_text" translatable="false">Lorem ipsum dolor sit amet</string>
-    <string name="overlay_preview_switch" translatable="false">Stet clita kasd gubergren</string>
-    <string name="overlay_preview_button1" translatable="false" >Yaj</string>
-    <string name="overlay_preview_button2" translatable="false" >Nej</string>
+    <string name="overlay_preview_text" translatable="false">How composed theme will look</string>
+    <string name="overlay_preview_switch" translatable="false">Buttons and Sliders</string>
+    <string name="overlay_preview_button1" translatable="false" >Yes</string>
+    <string name="overlay_preview_button2" translatable="false" >No</string>
     <string name="notification_overlay_info">Reboot is required after\nchanging notification overlay</string>
 </resources>
